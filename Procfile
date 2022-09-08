@@ -1,0 +1,1 @@
+web: gunicorn B1909984_NuyenDuyThanh_App:app --log-file - 
